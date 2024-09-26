@@ -12,7 +12,6 @@ Acesse a aplicação em [petgram.vercel.app](https://petgram.vercel.app/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000?style=for-the-badge&logo=css3&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -33,7 +32,6 @@ O **Petgram** é uma rede social inspirada nas redes sociais tradicionais, poré
 - **TypeScript**: Para maior segurança e tipagem estática do código.
 - **CSS Modules**: Para estilização modular e reutilizável dos componentes.
 - **API REST**: Comunicação com o backend para gerenciar os dados da aplicação.
-- **Vite**: Ferramenta de bundling rápida e moderna para desenvolvimento front-end.
 
 ## 📸 Screenshots
 
