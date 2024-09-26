@@ -37,19 +37,19 @@ O **Petgram** é uma rede social inspirada nas redes sociais tradicionais, poré
 
 ### Página Inicial
 
-![Página Inicial](https://petgram.vercel.app/feed.png)
+![Página Inicial](https://petgram.vercel.app/images/feed.png)
 
 ### Login
 
-![Login](https://petgram.vercel.app/login.png)
+![Login](https://petgram.vercel.app/images/login.png)
 
 ### Criar uma publicação
 
-![Criar publicação](https://petgram.vercel.app/upload.png)
+![Criar publicação](https://petgram.vercel.app/images/upload.png)
 
 ### Minha conta
 
-![Minha conta](https://petgram.vercel.app/minha_conta.png)
+![Minha conta](https://petgram.vercel.app/images/minha_conta.png)
 
 ## 🎯 Como Rodar o Projeto
 
